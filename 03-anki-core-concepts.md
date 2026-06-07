@@ -138,7 +138,7 @@ Anki 的设计正是基于这一原理：每次复习都是一次主动回忆练
 
 关于如何制作高质量卡片，请参考详细指南：
 
-👉 [Anki 优质卡片制作原则](anki-card-principles.md)
+👉 [Anki 优质卡片制作原则](07-anki-card-principles.md)
 
 包含以下内容：
 - 一次只问一个问题
@@ -183,6 +183,6 @@ Anki 的核心概念可以归结为：
 
 ## 📚 配套资源
 
-- [Anki 2周学习计划](anki-2week-plan.md) - 实践这些概念
-- [Anki 国内安装指南](anki-install-guide.md) - 开始使用 Anki
+- [Anki 2周学习计划](00-anki-2week-plan.md) - 实践这些概念
+- [Anki 国内安装指南](02-anki-install-guide.md) - 开始使用 Anki
 - [Anki 官方文档](https://docs.ankiweb.net/) - 深入学习

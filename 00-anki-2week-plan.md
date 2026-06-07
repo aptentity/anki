@@ -8,8 +8,8 @@
 
 在开始学习前，请先阅读以下配套文档：
 
-- [anki-introduction.md](anki-introduction.md) - 了解 Anki 是什么、间隔重复原理
-- [anki-install-guide.md](anki-install-guide.md) - 了解如何在国内安装 Anki
+- [01-anki-introduction.md](01-anki-introduction.md) - 了解 Anki 是什么、间隔重复原理
+- [02-anki-install-guide.md](02-anki-install-guide.md) - 了解如何在国内安装 Anki
 
 ---
 
